@@ -33,6 +33,8 @@ function ShoppingList() {
 					</li>
 				))}
 			</ul>
+			<CareScale careType='water' scaleValue={plant.water} />
+			<CareScale careType='light' scaleValue={plant.light} />
 		</div>
 	)
 }

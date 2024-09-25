@@ -34,10 +34,3 @@ function CareScale({ scaleValue, careType }) {
 }
 
 export default CareScale
-/*
-Créer une alerte qui se déclenche au clic sur le composant CareScale qui devra dire :
-
-"Cette plante requiert peu/modérement/beaucoup de lumière/d'arrosage" en fonction de la donnée correspondante ;
-
-s'il s'agit d'un composant CareScale de type "water" ou de type "light".
-*/

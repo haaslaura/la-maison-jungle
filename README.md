@@ -1,7 +1,7 @@
-# Exercice (en cours)
-Réalisation d'un premier site avec React.
+# Exercise (in progress)
+Building a first website with React.
 
-Source : https://openclassrooms.com/fr/courses/7008001-debutez-avec-react
+Root : https://openclassrooms.com/fr/courses/7008001-debutez-avec-react
 
 # Application
 
